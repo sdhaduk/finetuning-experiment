@@ -1,0 +1,12 @@
+{
+  "0": "SELECT \"Fraction\" FROM table_36623 WHERE \"Parentheses\" = '0.(3)'",
+  "1": "SELECT role_code, COUNT(*) FROM Users GROUP BY role_code ORDER BY COUNT(*) DESC",
+  "2": "SELECT no_in_series FROM table_228973_11 WHERE directed_by = \"David James Elliott\"",
+  "3": "SELECT \"Current Broadway Cast\" FROM table_2066 WHERE \"Original Broadway Cast\" = 'Constantine Maroulis'",
+  "4": "SELECT COUNT(\"title\") FROM table_203_771 WHERE \"version\" = '2005' AND \"title\" = 'benassi bros.'",
+  "5": "SELECT director FROM table_name_60 WHERE language = \"romanian\"",
+  "6": "SELECT opponent FROM table_name_31 WHERE week = 12",
+  "7": "SELECT MIN(height__m_) FROM table_name_97 WHERE name = \"plessur alps\" AND ave__no > 63",
+  "8": "SELECT MIN(\"Silver\") FROM table_6750 WHERE \"Rank\" = '4' AND \"Total\" > '1'",
+  "9": "SELECT * FROM table_test_32 WHERE age < 18 OR (language = 'non_english' OR deceased = 1) OR (abdominal_pain = 1 OR headache = 1 OR myalgia = 1 OR arthralgia = 1 OR thrombocytopenia > 10)"
+}

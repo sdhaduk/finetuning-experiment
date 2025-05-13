@@ -1,0 +1,12 @@
+{
+  "0": "SELECT \"Fraction\" FROM table_36623 WHERE \"Parentheses\" = '0.(3)'",
+  "1": "SELECT T1.role_code, T1.role_name FROM Roles AS T1 JOIN Users AS T2 ON T1.role_code = T2.role_code ORDER BY T2.role_name DESC",
+  "2": "SELECT no_in_series FROM table_228973_11 WHERE directed_by = \"David James Elliott\"",
+  "3": "SELECT \"Current Broadway Cast\" FROM table_2066 WHERE \"Original Broadway Cast\" = 'Constantine Maroulis'",
+  "4": "SELECT COUNT(\"title\") FROM table_203_771",
+  "5": "SELECT director FROM table_name_60 WHERE language = \"romanian\"",
+  "6": "SELECT opponent FROM table_name_31 WHERE week = 12",
+  "7": "SELECT MAX(height__m_) FROM table_name_97 WHERE name = \"plessur alps\" AND ave__no > 63",
+  "8": "SELECT MIN(\"silver\") FROM table_6750 WHERE \"rank\" = '4' AND \"total\" > '1'",
+  "9": "SELECT * FROM table_test_32 WHERE \"language\" = 'english' AND \"deceased\" = 'alive' AND \"symptomatic_lymphadenopathy\" = 'no' AND \"anemia\" = 'no' AND \"symptomatic_disease\" = 'no' AND \"language\" = 'english' AND \"deceased\" = 'alive'"
+}
